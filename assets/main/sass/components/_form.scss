@@ -82,7 +82,11 @@
 			font-size: 0.9rem;
 		}
 	}
-
+	
+	input[type="email"].subscribe-email {
+	  margin-bottom: 1rem;
+	}
+	
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
